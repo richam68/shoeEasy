@@ -1,5 +1,5 @@
 export const backendConfig = {
-  endpoint: `http://localhost:8082/api/v1`,
+  endpoint: `https://shoeeasy.onrender.com/api/v1`,
 };
 
 export const discountArray = [
