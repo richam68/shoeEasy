@@ -1,3 +1,3 @@
-# ShoeEsy Project 
+# ShoeEasy Project 
 
 ### Work in progress
